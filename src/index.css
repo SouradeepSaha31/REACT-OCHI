@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: grotesk;
+    src: url(../public/Founders\ Grotesk\ X-Condensed\ Bold.otf);
+  }
+  .h1wraper,
+  .inmarq,
+  .animetext,
+  .big3text,
+  .footertext,
+  .resnav,
+  .persent {
+    font-family: grotesk;
+  }
+  
