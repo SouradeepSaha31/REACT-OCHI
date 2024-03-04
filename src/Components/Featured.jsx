@@ -20,7 +20,7 @@ const Featured = () => {
 
       <div className="w-full  relative flex justify-center items-start mt-[40px] max-[768px]:flex-col max-[768px]:justify-start max-[768px]:items-center max-[768px]:gap-[20px]">
         <div className="h-[10vw] overflow-hidden absolute mt-[17.5vw] z-[10] pointer-events-none max-[768px]:hidden">
-          <h1 className="animetext uppercase text-[#CDEA68] text-[10vw]">
+          <h1 className="animetext font-[grotesk] uppercase text-[#CDEA68] text-[10vw]">
             {["f", "y", "d", "e"].map((item, index) => (
               <motion.span
                 initial={{ y: "55%" }}
@@ -35,7 +35,7 @@ const Featured = () => {
         </div>
 
         <div className="h-[10vw] overflow-hidden absolute mt-[17.5vw] z-[10] pointer-events-none max-[768px]:hidden">
-          <h1 className="animetext uppercase text-[#CDEA68] text-[10vw]">
+          <h1 className="animetext font-[grotesk] uppercase text-[#CDEA68] text-[10vw]">
             {["v", "i", "s", "e"].map((item, index) => (
               <motion.span
                 initial={{ y: "55%" }}
@@ -114,7 +114,7 @@ const Featured = () => {
 
       <div className="w-full relative flex justify-center items-start mt-[45px] max-[768px]:mt-[20px] max-[768px]:flex-col max-[768px]:justify-start max-[768px]:items-center max-[768px]:gap-[20px]">
         <div className="h-[10vw] overflow-hidden absolute mt-[17.5vw] z-[10] pointer-events-none max-[768px]:hidden">
-          <h1 className="animetext uppercase text-[#CDEA68] text-[10vw]">
+          <h1 className="animetext font-[grotesk] uppercase text-[#CDEA68] text-[10vw]">
             {["t", "r", "a", "w", "a"].map((item, index) => (
               <motion.span
                 initial={{ y: "55%" }}
@@ -129,7 +129,7 @@ const Featured = () => {
         </div>
 
         <div className="h-[10vw] overflow-hidden absolute mt-[17.5vw] z-[10] pointer-events-none max-[768px]:hidden">
-          <h1 className="animetext uppercase text-[#CDEA68] text-[10vw]">
+          <h1 className="animetext font-[grotesk] uppercase text-[#CDEA68] text-[10vw]">
             {[
               "p",
               "r",

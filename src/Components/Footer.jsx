@@ -10,13 +10,13 @@ const Footer = () => {
     >
       <div className="h-full w-[50%] max-[1280px]:w-[40%] max-[768px]:w-[100%] max-[768px]:h-[55%] max-[380px]:h-[50%] relative">
         <div className="leading-[100px] max-[768px]:leading-[55px] max-[380px]:leading-[40px] max-[1280px]:leading-[80px] max-[1024px]:leading-[70px]  max-[1280px]:m-[20px] m-[40px]">
-          <h1 className="footertext uppercase text-white text-[140px] max-[1280px]:text-[110px] max-[1024px]:text-[90px] max-[768px]:text-[70px] max-[380px]:text-[50px]">
+          <h1 className="footertext font-[grotesk] uppercase text-white text-[140px] max-[1280px]:text-[110px] max-[1024px]:text-[90px] max-[768px]:text-[70px] max-[380px]:text-[50px]">
             eye-
           </h1>
-          <h1 className="footertext uppercase text-white text-[140px] max-[1280px]:text-[110px] max-[1024px]:text-[90px] max-[768px]:text-[70px] max-[380px]:text-[50px]">
+          <h1 className="footertext font-[grotesk] uppercase text-white text-[140px] max-[1280px]:text-[110px] max-[1024px]:text-[90px] max-[768px]:text-[70px] max-[380px]:text-[50px]">
             opening
           </h1>
-          <h1 className="footertext max-[768px]:block uppercase text-white text-[140px] max-[1280px]:text-[110px] max-[1024px]:text-[90px] max-[768px]:text-[70px] max-[380px]:text-[50px] hidden">
+          <h1 className="footertext font-[grotesk] max-[768px]:block uppercase text-white text-[140px] max-[1280px]:text-[110px] max-[1024px]:text-[90px] max-[768px]:text-[70px] max-[380px]:text-[50px] hidden">
             presentations
           </h1>
         </div>
@@ -99,7 +99,7 @@ const Footer = () => {
         </svg>
       </div>
       <div className="relative h-full w-[50%] max-[1280px]:w-[60%] max-[768px]:w-[100%] max-[768px]:h-[45%] max-[380px]:h-[45%]">
-        <h1 className="footertext max-[768px]:hidden uppercase text-white text-[140px] max-[1280px]:text-[110px] max-[1024px]:text-[90px] max-[1280px]:leading-[130px] max-[1024px]:leading-[110px] leading-[170px]">
+        <h1 className="footertext font-[grotesk] max-[768px]:hidden uppercase text-white text-[140px] max-[1280px]:text-[110px] max-[1024px]:text-[90px] max-[1280px]:leading-[130px] max-[1024px]:leading-[110px] leading-[170px]">
           presentation
         </h1>
         <div className="flex max-[768px]:hidden flex-col items-start justify-start mb-[25px]">

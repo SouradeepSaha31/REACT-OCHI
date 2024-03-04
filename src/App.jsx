@@ -24,8 +24,12 @@ const App = () => {
     };
   }, []);
 
-
+useEffect(()=>{
+  if(window.innerWidth < 768){
+    return
+  }
   const locomotiveScroll = new LocomotiveScroll();
+})
 
   return (
     <>

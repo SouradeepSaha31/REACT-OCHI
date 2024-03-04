@@ -20,7 +20,7 @@ const Landingpage = () => {
     >
       <div className="bigtext overflow-hidden ml-12 max-[1280px]:ml-[20px]">
         <div
-          className={`h1wraper h-[8vw] max-[1280px]:h-[80px] max-[768px]:h-[50px] flex gap-3 max-[1280px]:gap-2  justify-start  overflow-hidden`}
+          className={`h1wraper font-[grotesk] h-[8vw] max-[1280px]:h-[80px] max-[768px]:h-[50px] flex gap-3 max-[1280px]:gap-2  justify-start  overflow-hidden`}
         >
           <h1
             className={`text-white uppercase -mt-[1.5vw] text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]`}
@@ -30,7 +30,7 @@ const Landingpage = () => {
         </div>
 
         <div
-          className={`h1wraper h-[8vw] max-[1280px]:h-[80px] max-[768px]:h-[50px] flex gap-3 max-[1280px]:gap-2  justify-start  overflow-hidden`}
+          className={`h1wraper font-[grotesk] h-[8vw] max-[1280px]:h-[80px] max-[768px]:h-[50px] flex gap-3 max-[1280px]:gap-2  justify-start  overflow-hidden`}
         >
           <img
             style={{
@@ -52,7 +52,7 @@ const Landingpage = () => {
         </div>
 
         <div
-          className={`h1wraper h-[8vw] max-[1280px]:h-[80px] max-[768px]:h-[50px] flex gap-3 max-[1280px]:gap-2  justify-start  overflow-hidden`}
+          className={`h1wraper font-[grotesk] h-[8vw] max-[1280px]:h-[80px] max-[768px]:h-[50px] flex gap-3 max-[1280px]:gap-2  justify-start  overflow-hidden`}
         >
           <h1
             className={`text-white uppercase -mt-[1.5vw] text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]`}

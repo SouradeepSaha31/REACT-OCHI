@@ -200,31 +200,31 @@ const navbar = () => {
       >
         <h1
           style={{ opacity: `${opacity}`, transition: "all ease 1.6s" }}
-          className="resnav cursor-pointer h-[100px] max-[1280px]:h-[90px] max-[768px]:h-[70px] text-zinc-100 uppercase text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]"
+          className="resnav font-[grotesk] cursor-pointer h-[100px] max-[1280px]:h-[90px] max-[768px]:h-[70px] text-zinc-100 uppercase text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]"
         >
           services
         </h1>
         <h1
           style={{ opacity: `${opacity}`, transition: "all ease 1.6s" }}
-          className="resnav cursor-pointer h-[100px] max-[1280px]:h-[90px] max-[768px]:h-[70px] text-zinc-100 uppercase text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]"
+          className="resnav font-[grotesk] cursor-pointer h-[100px] max-[1280px]:h-[90px] max-[768px]:h-[70px] text-zinc-100 uppercase text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]"
         >
           our work
         </h1>
         <h1
           style={{ opacity: `${opacity}`, transition: "all ease 1.6s" }}
-          className="resnav cursor-pointer h-[100px] max-[1280px]:h-[90px] max-[768px]:h-[70px] text-zinc-100 uppercase text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]"
+          className="resnav font-[grotesk] cursor-pointer h-[100px] max-[1280px]:h-[90px] max-[768px]:h-[70px] text-zinc-100 uppercase text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]"
         >
           about us
         </h1>
         <h1
           style={{ opacity: `${opacity}`, transition: "all ease 1.6s" }}
-          className="resnav cursor-pointer h-[100px] max-[1280px]:h-[90px] max-[768px]:h-[70px] text-zinc-100 uppercase text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]"
+          className="resnav font-[grotesk] cursor-pointer h-[100px] max-[1280px]:h-[90px] max-[768px]:h-[70px] text-zinc-100 uppercase text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]"
         >
           insights
         </h1>
         <h1
           style={{ opacity: `${opacity}`, transition: "all ease 1.6s" }}
-          className="resnav cursor-pointer h-[100px] max-[1280px]:h-[90px] max-[768px]:h-[70px] text-zinc-100 uppercase text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]"
+          className="resnav font-[grotesk] cursor-pointer h-[100px] max-[1280px]:h-[90px] max-[768px]:h-[70px] text-zinc-100 uppercase text-[10vw] max-[1280px]:text-[100px] max-[768px]:text-[60px]"
         >
           contact us
         </h1>

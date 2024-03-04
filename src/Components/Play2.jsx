@@ -51,13 +51,13 @@ const Play2 = () => {
       className="play2 py-[100px] max-[1280px]:py-[85px] max-[1024px]:py-[70px]  max-[768px]:py-[55px] max-[350px]:py-[40px] relative bg-[#CDEA68] w-full"
     >
       <div className="leading-[150px] max-[1280px]:leading-[110px] max-[1024px]:leading-[90px] max-[768px]:leading-[60px] max-[350px]:leading-[45px]">
-        <h1 className="big3text uppercase text-black text-[200px] max-[1280px]:text-[160px] max-[1024px]:text-[120px] max-[768px]:text-[80px] max-[350px]:text-[60px] text-center">
+        <h1 className="big3text font-[grotesk] uppercase text-black text-[200px] max-[1280px]:text-[160px] max-[1024px]:text-[120px] max-[768px]:text-[80px] max-[350px]:text-[60px] text-center">
           ready
         </h1>
-        <h1 className="big3text uppercase text-black text-[200px] max-[1280px]:text-[160px] max-[1024px]:text-[120px] max-[768px]:text-[80px] max-[350px]:text-[60px] text-center">
+        <h1 className="big3text font-[grotesk] uppercase text-black text-[200px] max-[1280px]:text-[160px] max-[1024px]:text-[120px] max-[768px]:text-[80px] max-[350px]:text-[60px] text-center">
           to start
         </h1>
-        <h1 className="big3text uppercase text-black text-[200px] max-[1280px]:text-[160px] max-[1024px]:text-[120px] max-[768px]:text-[80px] max-[350px]:text-[60px] text-center">
+        <h1 className="big3text font-[grotesk] uppercase text-black text-[200px] max-[1280px]:text-[160px] max-[1024px]:text-[120px] max-[768px]:text-[80px] max-[350px]:text-[60px] text-center">
           the project ?
         </h1>
       </div>
