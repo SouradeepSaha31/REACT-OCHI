@@ -1,4 +1,3 @@
-"use client";
 import LocomotiveScroll from 'locomotive-scroll';
 import React, { useEffect, useState } from "react";
 import Landingpage from "./Components/Landingpage";
