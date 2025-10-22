@@ -9,7 +9,7 @@ const Marq = () => {
       data-scroll-speed="0.1"
       className="z-[3] marquee w-full h-[30vw] bg-[#004D43] rounded-t-[20px] overflow-hidden flex items-center"
     >
-      <div className="inmarq font-[grotesk] w-full h-[20vw] whitespace-nowrap overflow-hidden  border-y-[1px] border-zinc-50 flex gap-7 justify-start px-2">
+      <div className="inmarq font-[grotesk] w-full h-[20vw] whitespace-nowrap overflow-hidden color-red border-y-[1px] border-zinc-50 flex gap-7 justify-start px-2">
         {[
           "we are ochi we are ochi we are ochi we are ochi we are ochi",
           "we are ochi we are ochi we are ochi we are ochi we are ochi",

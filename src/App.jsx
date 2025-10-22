@@ -1,4 +1,4 @@
-import LocomotiveScroll from 'locomotive-scroll';
+// import LocomotiveScroll from 'locomotive-scroll';
 import React, { useEffect, useState } from "react";
 import Landingpage from "./Components/Landingpage";
 import Navbar from "./Components/Navbar";
@@ -23,22 +23,22 @@ const App = () => {
     };
   }, []);
 
-useEffect(()=>{
-  if(window.innerWidth < 768){
-    return
-  }
-  const locomotiveScroll = new LocomotiveScroll();
-})
+// useEffect(()=>{
+//   if(window.innerWidth < 768){
+//     return
+//   }
+//   const locomotiveScroll = new LocomotiveScroll();
+// })
 
   return (
     <>
-      <div className="relative w-full h-screen bg-black hidden max-[380px]:block px-[5vw]">
+      <div className="relative w-full h-screen bg-black hidden max-[350px]:block px-[5vw]">
         <h1 className="absolute top-[50%] translate-y-[-50%] text-white text-[7vw]">
-          Your screen width is: {screenwidth}px. Please open the website over
-          380px.
+          Your screen width is: {screenwidth}px. Please open the website <br /> over
+          350px.
         </h1>
       </div>
-      <div className="main w-full block max-[380px]:hidden min-h-screen bg-zinc-900">
+      <div className="main w-full block max-[350px]:hidden min-h-screen bg-zinc-900">
         <Loader />
         <Navbar />
         <Landingpage />
